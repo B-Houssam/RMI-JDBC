@@ -1,0 +1,31 @@
+
+Class: sun.rmi.transport.tcp.TCPEndpoint Package: java.lang Methode: newSocket line: 623 AT: Thu Jan 28 18:12:22 CET 2021 message: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connexion refusée
+Class: com.mysql.cj.jdbc.exceptions.SQLError Package: java.lang Methode: createSQLException line: 129 AT: Thu Jan 28 18:13:10 CET 2021 message: Column Index out of range, 0 < 1.
+Class: sun.rmi.transport.tcp.TCPTransport Package: java.lang Methode: listen line: 346 AT: Thu Jan 28 18:14:44 CET 2021 message: Port already in use: 2000; nested exception is: 
+	java.net.BindException: Adresse déjà utilisée
+Class: com.mysql.cj.jdbc.exceptions.SQLError Package: java.lang Methode: createSQLException line: 129 AT: Thu Jan 28 18:14:55 CET 2021 message: Column Index out of range, 0 < 1.
+Class: sun.rmi.transport.tcp.TCPEndpoint Package: java.lang Methode: newSocket line: 623 AT: Thu Jan 28 18:16:48 CET 2021 message: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connexion refusée
+Class: sun.rmi.transport.tcp.TCPEndpoint Package: java.lang Methode: newSocket line: 623 AT: Thu Jan 28 18:17:13 CET 2021 message: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connexion refusée
+Class: com.mysql.cj.jdbc.exceptions.SQLError Package: java.lang Methode: createSQLException line: 129 AT: Thu Jan 28 18:17:27 CET 2021 message: Column Index out of range, 0 < 1.
+Class: sun.rmi.transport.tcp.TCPEndpoint Package: java.lang Methode: newSocket line: 623 AT: Thu Jan 28 18:25:44 CET 2021 message: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connexion refusée
+Class: sun.rmi.transport.tcp.TCPEndpoint Package: java.lang Methode: newSocket line: 623 AT: Thu Jan 28 18:29:41 CET 2021 message: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connexion refusée
+Class: sun.rmi.transport.tcp.TCPEndpoint Package: java.lang Methode: newSocket line: 623 AT: Thu Jan 28 18:43:10 CET 2021 message: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connexion refusée
+Class: p1.P1 Package: java.lang Methode: main line: 40 AT: Thu Jan 28 18:51:06 CET 2021 message: Unexpected value: 1
+Class: p1.P1 Package: java.lang Methode: main line: 40 AT: Thu Jan 28 18:51:56 CET 2021 message: Unexpected value: 1
+Class: p1.P1 Package: java.lang Methode: main line: 40 AT: Thu Jan 28 18:52:52 CET 2021 message: Unexpected value: 1
+Class: p1.P1 Package: java.lang Methode: main line: 40 AT: Thu Jan 28 18:53:54 CET 2021 message: Unexpected value: 1
+Class: p1.P1 Package: java.lang Methode: main line: 40 AT: Thu Jan 28 18:54:43 CET 2021 message: Unexpected value: a
+Class: com.mysql.cj.jdbc.exceptions.SQLError Package: java.lang Methode: createSQLException line: 120 AT: Thu Jan 28 19:08:55 CET 2021 message: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Class: sun.rmi.transport.tcp.TCPTransport Package: java.lang Methode: listen line: 346 AT: Thu Jan 28 19:12:06 CET 2021 message: Port already in use: 2000; nested exception is: 
+	java.net.BindException: Adresse déjà utilisée
+Class: com.mysql.cj.jdbc.exceptions.SQLError Package: java.lang Methode: createSQLException line: 120 AT: Thu Jan 28 19:12:15 CET 2021 message: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Class: com.mysql.cj.jdbc.exceptions.SQLError Package: java.lang Methode: createSQLException line: 120 AT: Thu Jan 28 19:15:51 CET 2021 message: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Class: java.util.Scanner Package: java.lang Methode: ensureOpen line: 1150 AT: Thu Jan 28 19:17:26 CET 2021 message: Scanner closed
+Class: sun.rmi.transport.tcp.TCPEndpoint Package: java.lang Methode: newSocket line: 623 AT: Thu Jan 28 19:58:07 CET 2021 message: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connexion refusée
